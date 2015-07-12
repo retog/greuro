@@ -33,11 +33,16 @@ The GREUROs are released by the Greek State, basically its a document digitally 
 
 ### Forwarding GREUROS
 
-Now Alice who got the first GREURO wants to use it to pay for a drink and consequently transfer it to Bob. She basically just takes the above document including its signature by the Greek State and add the new owner before signing it with her key (i.e. with the secret key that matches the public key in the owner section of the original document.
+Now Alice who got the first GREURO wants to use it to pay for a drink and consequently 
+transfer it to Bob. She basically just takes the above document including its signature 
+by the Greek State and add the new owner before signing it with her key (i.e. with the
+ secret key that matches the public key in the owner section of the original document.
 
     [Signed original document]
 
-    I hereby transfer all my rights on this GREURO to the new owner below. I promise that I only transfer this GREURO to the new owner specified it this document and will not cash the GREURO myself.
+    I hereby transfer all my rights on this GREURO to the new owner below. I promise 
+    that I only transfer this GREURO to the new owner specified it this document and 
+    will not cash the GREURO myself.
 
     New Owner {
        Name (optional): Bob.
@@ -49,24 +54,33 @@ Bob can now either trust Alice and keep the document as it is, or convert it to 
 
     [The document Alice Signed]
 
-    I hereby transfer all my rights on this GREURO to the new owner below. I promise that I only transfer this GREURO to the new owner specified it this document and will not cash the GREURO myself. If any of the earlier parties in the transfer chain have double spent this GREURO I shall reimburs the new owner in full.
+    I hereby transfer all my rights on this GREURO to the new owner below. I promise 
+    that I only transfer this GREURO to the new owner specified it this document and 
+    will not cash the GREURO myself. If any of the earlier parties in the transfer 
+    chain have double spent this GREURO I shall reimburs the new owner in full.
 
     New Owner {
        Name (optional): Carol.
        Public Key: 8D33 567F ........
     }
 
-Carol can either just trust Bob or convert the GREURO for a brand new one with the online service of the Greek State. If nobody double spent Carol will get the bran new GREURO (like the one Bob hat, except with her name on it.
+Carol can either just trust Bob or convert the GREURO for a brand new one with the online service of the Greek State. If nobody double spent Carol will get the bran new GREURO (like the one Alice had, except with her name on it). If however Alice broke her promise and double spent the GREURO to Dave who cashed (or converted) it right away, the Greek Server will refuse to accept Carol's GREURO and tell her that Alice double spent the GREURO (the Greek service will not mention Dave). Carol will now go back to Bob and ask for another GREURO, after refunding Carol Bob will try to find Alice and blame himself for having trusted her.
 
+## Advantages compared with Bitcoins
 
+ * Much more energy efficient, thus cheaper transactions
+ * Backed by an external value (EUROs) thus more stable
 
+## Advantages for Greece
 
- * The world needs cryprocurrencies
- * The bitcoin network is not substainable, ["the entire Bitcoin mining network is on par with Ireland for electricity consumption"](http://karlodwyer.github.io/publications/pdf/bitcoin_KJOD_2014.pdf)
- * Value of all bitcoins in circulation: 4x10^9 €
- * What's backing the value? The computation invested for decentralized transaction validation during the initial period during which new bitcoins are created
- * How expensive are transactions? The proof of work costs  energy, see the paper quote above. 
+ * A lot of microcredits from the masses, this would be 4x10^9 € when reaching the volume of Bitcoins.
 
-Scalability improvements in a centralized/federated system
+## Advantages for the rest of us
 
- * Book multiple ownership changes of the same coin in one transaction, till the central authority logs the transaction the value depends on the trust in the intermediaries. If every intermediary can proof the identity of the previous intermediary some trust (also by the possibility of legal enforcement) is probale. In practice a logging of a single transaction by the central authority is only needed if the paying party doesn't reveal their identity.
+ * Cheaper payments
+ * Infrastructure that could be used with other virtual currencies, allowing for social and personal currencies.
+ * Less currency risks than with bitcoins, as we all know how hard the Greek work to pay debts back.
+
+## references
+
+ * Energy usage of the Bitcoin network: "the entire Bitcoin mining network is on par with Ireland for electricity consumption" [http://karlodwyer.github.io/publications/pdf/bitcoin_KJOD_2014.pdf]](http://karlodwyer.github.io/publications/pdf/bitcoin_KJOD_2014.pdf)
