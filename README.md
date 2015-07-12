@@ -1,7 +1,27 @@
 # GREURO
 ## A cheaper and more ecological alternative to Bitcoins
 
-An essential security feature of Bitcoins if the proof of work. Computer solve cryptological puzzles as a proof of work when approving changes into the blockchain. This proof of work is an elegant solution to allow for a decentralized network in an anonymous network. However it brings huge energy costs.
+An essential security feature of Bitcoins if the proof of work. Computer solve cryptological puzzles as a proof of work when approving changes into the blockchain. This proof of work is an elegant solution to allow for a decentralized network in an anonymous network. However it brings huge energy costs, the bitcoint network already uses around as much electricity as the republic of Ireland, even though today only a very small fraction of the monetary transactions are bitcoins transactions.
+
+A solution: the GREURO is designed to use a trusted central block chain run by the Greek State. GREUROs are transferable digital certificates than can be converted to EUROs. (Some limitations on how many EUROs can be converted by person and day might be in place).
+
+## How does it work?
+
+Compared with the Bitcon block Chains things are quite easy.
+
+### Generations of new GREUROs
+
+The GREUROs are released by the Greek State, basically its a document digitally signed by the Greek 
+
+    The Hellenic Republic promises to pay the holder of this GREURO the amount of 1 EURO. As holder of this GREURO shall either be the person that can identify as the original holder of this GREURO or any person that can provide cryptographic proof that the orginal holder transferred the rights on this GREURO to them either directly or via the a cryptographically proven transfer chain. The first person presenting as holder of this GREURO shall be considered the legitimate owner, as person subsequently attempting to cash the same GREURO shall be which person in the transfer chain duplicated the GREURO.
+
+    Intial Owner {
+       Name (optional): Alice.
+       Public Key: 7F87 5B8C ........
+    }
+
+
+
 
  * The world needs cryprocurrencies
  * The bitcoin network is not substainable, ["the entire Bitcoin mining network is on par with Ireland for electricity consumption"](http://karlodwyer.github.io/publications/pdf/bitcoin_KJOD_2014.pdf)
