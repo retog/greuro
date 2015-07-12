@@ -60,7 +60,7 @@ by the Greek State and add the new owner before signing it with her key (i.e. wi
 
 Bob can now either trust Alice and keep the document as it is, or convert it to to 
 a new GREURO using the online services of the Greek State. Even though the transaction 
-fee to create a brand new GREURO from a transferred one Bob decide not to convert 
+fee to create a brand new GREURO from a transferred one is very lowm Bob decide not to convert 
 the GREURO. Instead he uses the GREURO to pay one his staff member Carol. The 
 new digitally singed document is quite similar to the above one
 
