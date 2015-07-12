@@ -7,7 +7,7 @@ blockchain. This proof of work is an elegant solution to allow for a
 decentralized network in an anonymous network. However it brings huge energy 
 costs, the **bitcoint network already uses around as much electricity as the 
 republic of Ireland**, even though today only a very small fraction of the monetary 
-transactions are bitcoins transactions.
+transactions are bitcoin transactions.
 
 A solution: the GREURO is designed to use a trusted central block chain run by 
 the Greek State. GREUROs are transferable digital certificates than can be 
