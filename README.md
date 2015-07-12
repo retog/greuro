@@ -5,8 +5,8 @@ An essential security feature of Bitcoins if the proof of work. Computers solve
 cryptological puzzles as a proof of work when approving changes into the 
 blockchain. This proof of work is an elegant solution to allow for a 
 decentralized network in an anonymous network. However it brings huge energy 
-costs, the *bitcoint network already uses around as much electricity as the 
-republic of Ireland*, even though today only a very small fraction of the monetary 
+costs, the **bitcoint network already uses around as much electricity as the 
+republic of Ireland**, even though today only a very small fraction of the monetary 
 transactions are bitcoins transactions.
 
 A solution: the GREURO is designed to use a trusted central block chain run by 
