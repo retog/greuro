@@ -107,3 +107,6 @@ blame himself for having trusted her.
  * Energy usage of the Bitcoin network: "the entire Bitcoin mining network is on 
 par with Ireland for electricity consumption" 
 [http://karlodwyer.github.io/publications/pdf/bitcoin_KJOD_2014.pdf]](http://karlodwyer.github.io/publications/pdf/bitcoin_KJOD_2014.pdf)
+
+
+Just found that somebody has been thinking along very similar lines, haven't reda through it yet: https://www.academia.edu/11534054/From_GREXIT_to_GREURO_A_Third_Way_for_Greece
