@@ -60,7 +60,7 @@ by the Greek State and add the new owner before signing it with her key (i.e. wi
 
 Bob can now either trust Alice and keep the document as it is, or convert it to to 
 a new GREURO using the online services of the Greek State. Even though the transaction 
-fee to create a brand new GREURO from a transferred one is very low, Bob decide not to convert 
+fee to create a brand new GREURO from a transferred one is very low, Bob decides not to convert 
 the GREURO. Instead he uses the GREURO to pay one his staff member Carol. The 
 new digitally singed document is quite similar to the above one
 
@@ -78,7 +78,7 @@ new digitally singed document is quite similar to the above one
     }
 
 Carol can either just trust Bob or convert the GREURO for a brand new one with 
-the online service of the Greek State. If nobody double spent Carol will get the 
+the online service of the Greek State. If nobody double spent, Carol will get the 
 bran new GREURO (like the one Alice had, except with her name on it). If however 
 Alice broke her promise and double spent the GREURO to Dave who cashed (or 
 converted) it right away, the Greek Server will refuse to accept Carol's GREURO 
