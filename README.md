@@ -2,7 +2,7 @@
 ## A cheaper and more ecological alternative to Bitcoins (and much sexier than GREXIT)
 
 ### Summary
-One major problem : **[The Bitcoin](https://en.wikipedia.org/wiki/Bitcoin_network) network is inefficient already uses around as much electricity as the republic of Ireland**
+One major problem : **the [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin_network) network is inefficient and already uses around as much electricity as the republic of Ireland**
 
 A solution: the GREURO is designed to use a trusted central block chain run by the Greek State. GREUROs are transferable digital certificates than can be converted to [EUROs](https://en.wikipedia.org/wiki/Euro). (Some limitations on how many EUROs can be converted by person and day might be in place).
 * Much more energy efficient, thus cheaper transactions
