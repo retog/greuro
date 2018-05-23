@@ -122,4 +122,5 @@ for having trusted her.
  * Energy usage of the Bitcoin network: "the entire Bitcoin mining network is on
 par with Ireland for electricity consumption"
 [http://karlodwyer.github.io/publications/pdf/bitcoin_KJOD_2014.pdf]](http://karlodwyer.github.io/publications/pdf/bitcoin_KJOD_2014.pdf)
+ * "Bitcoin’s energy footprint has more than doubled since Grist first wrote about it six months ago." https://grist.org/article/bitcoins-energy-use-got-studied-and-you-libertarian-nerds-look-even-worse-than-usual/
  * Just found that somebody has been thinking along similar lines and also using the term "GREURO": https://www.academia.edu/11534054/From_GREXIT_to_GREURO_A_Third_Way_for_Greece
